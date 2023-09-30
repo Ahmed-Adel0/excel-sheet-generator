@@ -3,7 +3,7 @@
 This code demonstrates how to use SweetAlert.js to display error alerts in a web page.
 It includes error handling for two scenarios: when the user clicks "generate" without entering the required fields, and when the user clicks "export" without a generated table to export.
 
-- I used a CDN to called the SweetAlert.js library HTML file.
+- I used a CDN to called the SweetAlert.js library on HTML file.
 
 ## Changes Made
 
